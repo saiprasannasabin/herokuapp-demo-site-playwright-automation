@@ -1,0 +1,22 @@
+
+{
+ "validUser": {
+ "username": "tomsmith" ,
+ "password": "SuperSecretPassword!"
+ } ,
+
+ "invalidUser":{
+    "username": "tests",
+    "password": "hjhfcdxfcvg"
+ } ,
+ "emptyUser":{
+    "username": "",
+    "password": ""
+ }
+
+}
+
+
+
+
+    
