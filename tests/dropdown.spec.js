@@ -1,5 +1,5 @@
 import {test,expect} from "@playwright/test";
-import { DropDownPage} from "./DropDownPage";
+import { DropDownPage } from "./pages/DropDownPage";
 
 test.describe('Dropdown scenarios', ()=>{
     let dropdownpage;
